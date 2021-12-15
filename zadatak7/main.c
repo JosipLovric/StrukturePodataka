@@ -6,6 +6,7 @@
 int main() {
 
 
+	
 	stog head;
 	dir root;
 
