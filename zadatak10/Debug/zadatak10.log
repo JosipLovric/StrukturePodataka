@@ -1,0 +1,16 @@
+﻿  zad10a.c
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(499,12): warning C4047: 'return': 'int' differs in levels of indirection from 'pozb'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(620,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(637,16): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(666,17): warning C4133: 'function': incompatible types - from 'poz' to 'poz_dl'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(666,22): warning C4133: 'function': incompatible types - from 'poz' to 'poz_dl'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(692,23): warning C4133: 'function': incompatible types - from 'poz_dlb' to 'poz_dl'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(692,28): warning C4133: 'function': incompatible types - from 'poz_dlb' to 'poz_dl'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(693,24): warning C4133: 'function': incompatible types - from 'poz_dlb' to 'poz_dl'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(693,29): warning C4133: 'function': incompatible types - from 'poz_dlb' to 'poz_dl'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(711,17): warning C4133: '=': incompatible types - from 'pozb' to 'poz'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(712,23): warning C4133: '=': incompatible types - from 'poz' to 'pozb'
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(361): warning C4716: 'ispisi': must return a value
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(566): warning C4715: 'nadi_al': not all control paths return a value
+C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\zad10a.c(686): warning C4716: 'dio_b': must return a value
+  zadatak10.vcxproj -> C:\Users\josip\Desktop\FAKS\STRUKTURE\StrukturePodataka\zadatak10\Debug\zadatak10.exe

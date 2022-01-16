@@ -1,0 +1,3 @@
+split 120000
+kastela 40000
+zagreb 1300000
